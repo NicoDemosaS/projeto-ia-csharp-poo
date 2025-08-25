@@ -45,7 +45,7 @@ Projeto de demonstração simples em C# utilizando conceitos de Programação Or
 | Gustavo Magagnin        | [@gustavomagagnin](https://github.com/Magagnin)            |
 | Luan Costa              | [@luancosta](https://github.com/iRasec)                    |
 | Shara Palharini Lima    | [@sharapalharini](https://github.com/splhyy)               |
-| Diego Mathias           | [@diegomathias]                                            |
+| Diego Mathias           | [@diegomathias](https://github.com/diegomathiasDD)         |
  
 
 ## Licença
